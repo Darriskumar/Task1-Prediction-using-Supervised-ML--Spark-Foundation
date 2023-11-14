@@ -30,4 +30,3 @@ Prediction.
 The model is used to predict the scores for the test data, and the predicted scores are stored in 'y_predict' with regressor.predict(x_test).
 
 
-The model is used to predict the scores for the test data, and the predicted scores are stored in 'y_predict' with regressor.predict(x_test).
